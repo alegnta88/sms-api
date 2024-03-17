@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce New Order sms Action
 Description: A plugin that triggers an action when a new order is created in WooCommerce
 Version: 1.0
-Author: Michael Zewdu
+Author: Alegnta Lolamo
 */
 // use Buzz\Browser;
 // use Buzz\Client\FileGetContents;
